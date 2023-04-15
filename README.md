@@ -15,8 +15,8 @@ $ [Other Information](#OTHER-INFORMATION)
 ## Video Tutorial (WINDOWS, C9/CA & TERMUX) [https://youtu.be/J7WbsfZ7z6I]
 
 ## Default or Basic Usage
-	$ git clone https://github.com/officialputuid/toolsig.git
-	$ cd toolsig
+	$ git clone (https://github.com/TamimFuckersHacks/Instagram-Hack-Tools)
+	$ cd Instagram-Hack-Tools
 	$ npm i
 	$ node index.js
 	
@@ -32,16 +32,16 @@ $ [Other Information](#OTHER-INFORMATION)
 	$ pkg upgrade && pkg update
 	$ pkg install git
 	$ pkg install nodejs-lts
-	$ git clone https://github.com/officialputuid/toolsig.git
-	$ cd toolsig
+	$ git clone https://github.com/TamimFuckersHacks/Instagram-Hack-Tools
+	$ cd Instagram-Hack-Tools
 	$ npm i
 	$ node index.js
 
 ## Tutorial on C9io/CodeAnywhere [WEB-CLOUD-BASED]
 	$ Login c9.io/login | https://codeanywhere.com/login
 	$ Select & Install Workspace + Package NodeJS
-	$ git clone https://github.com/officialputuid/toolsig.git
-	$ cd toolsig
+	$ git clone https://github.com/TamimFuckersHacks/Instagram-Hack-Tools
+	$ cd Instagram-Hack-Tools
 	$ npm i
 	$ node index.js
 
